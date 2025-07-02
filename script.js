@@ -1,2 +1,2 @@
 console.log("hello friend , whats up ");
-console.log("nothing too much !.... hello bhai");
+console.log("nothing too much !.... just chill");
